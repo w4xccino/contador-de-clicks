@@ -30,3 +30,11 @@ html {
   height: 50px;
   filter: invert(100%);
 }
+.contenedor-principal {
+  height: 550px;
+  min-width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
